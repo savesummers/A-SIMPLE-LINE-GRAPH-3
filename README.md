@@ -1,4 +1,4 @@
-# A-SIMPLE-LINE-GRAPH-3
+# Scatter Plot of Values vs. Their Squares
 
 **Context**
 
